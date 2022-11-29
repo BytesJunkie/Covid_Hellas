@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "823976540132",
+    "project_id": "covidhellas",
+    "storage_bucket": "covidhellas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823976540132:android:b269d60eea3d2120eaf9f1",
+        "android_client_info": {
+          "package_name": "com.example.covidhellas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823976540132-frfuum24v0gkuiqeop317nqhpuqbcn7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByf6ATDGo3iA925oTtp7hBQwKmf0Hm1Dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823976540132-frfuum24v0gkuiqeop317nqhpuqbcn7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
